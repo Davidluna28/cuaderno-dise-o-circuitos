@@ -35,7 +35,7 @@ Unidad 1 · Lógica combinacional con diseño clásico
 |---|---|---|
 | 1 | Sistemas numéricos, códigos y compuertas lógicas | [semana-01.md](semana-01.md) |
 | 2 | Álgebra de Boole y formas canónicas | [semana-02.md](semana-02.md) |
-| 3 | Mapas de Karnaugh, condiciones indiferentes y NAND/NOR (unificada) | [semana-03.md](semana-03.md) |
+| 3 | Mapas de Karnaugh, condiciones indiferentes y NAND/NOR ) | [semana-03.md](semana-03.md) |
 | 4 | Circuitos aritméticos: sumadores, resta, overflow y comparador | [semana-04.md](semana-04.md) |
 
 ## Mapa de la unidad
