@@ -48,18 +48,3 @@ flowchart LR
     S4 --> ALU["Hacia la ALU"]
 ```
 
-## Uso con Git
-
-Cada semana se registra como un *commit* distinto. Para seguir construyendo el cuaderno:
-
-```bash
-git log --oneline                 # historial de semanas
-git add semana-05.md
-git commit -m "Semana 5: multiplexores"
-git remote add origin <URL-del-repositorio>
-git push -u origin main
-```
-
-Para verlo como sitio web, activar GitHub Pages en *Settings → Pages* sobre la rama `main`.
-
-> Fuente de los contenidos: diapositivas del docente (Semanas 1 a 4). Este cuaderno es un resumen de estudio.
