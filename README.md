@@ -45,6 +45,6 @@ flowchart LR
     S1["S1: Binario, códigos y compuertas"] --> S2["S2: Boole y formas canónicas"]
     S2 --> S3["S3: Karnaugh, X y NAND/NOR"]
     S3 --> S4["S4: Sumador, resta y comparador"]
-    S4 --> ALU["Hacia la ALU"]
+   
 ```
 
