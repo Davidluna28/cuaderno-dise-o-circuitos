@@ -19,7 +19,7 @@ Unidad 1 · Lógica combinacional con diseño clásico
 |---|---|
 | **Asignatura** | Diseño de Circuitos |
 | **Docente** | Ing. Luis Darío Sinche Cueva, Mg. |
-| **Estudiante** | [NOMBRE DEL ESTUDIANTE] |
+| **Estudiante** | David Luna Lara |
 | **Ciclo / paralelo** | 2.º ciclo A |
 | **Período académico** | Septiembre 2026 – marzo 2027 |
 
