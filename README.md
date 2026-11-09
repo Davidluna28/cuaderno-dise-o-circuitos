@@ -11,7 +11,7 @@
 
 ## Diseño de Circuitos
 Unidad 1 · Lógica combinacional con diseño clásico
-**Contenidos: Semanas 1, 2, 3 (sesiones 1 y 2 unificadas) y 4**
+**Contenidos: Semanas 1, 2, 3 y 4**
 
 ---
 
